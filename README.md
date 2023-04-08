@@ -9,11 +9,11 @@ Welcome to the **GIF Search App**, a fun and easy-to-use web application that al
 + Users can easily copy and share their favorite GIFs
 
 ## Installation and Usage
-To use the GIF Search App, you can visit the live demo hosted on my GitHub Pages here. Alternatively, you can also clone this repository to your local machine and open the index.html file in your web browser.
+To use the GIF Search App, you can visit the live demo hosted on my GitHub Pages [here](https://shrudex.github.io/gif-search-app/). Alternatively, you can also clone this repository to your local machine and open the index.html file in your web browser.
 
 To clone this repository, run the following command in your terminal:
 ```
-git clone https://github.com/[shrudex]/gif-search-app.git
+git clone https://github.com/shrudex/gif-search-app.git
 ```
 Once the repository is cloned, open the index.html file in your web browser to start using the app.
 
